@@ -66,6 +66,6 @@ Your contributions can help enrich this repository! If you have suggestions or r
 6. Create a new Pull Request.
 
 ## 📩 Contact
-For questions or further information, please do not hesitate to reach out via [Your Email](mailto:khanhtq0412it@gmail.com).
+For questions or further information, please do not hesitate to reach out via [My email](mailto:khanhtq0412it@gmail.com).
 
 Thank you for visiting our repository. Happy learning and exploring!
