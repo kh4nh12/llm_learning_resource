@@ -1,7 +1,3 @@
-Certainly! Here’s an updated version of the `README.md` for the GitHub repository, now including detailed information about various platforms and tools that support the use of Large Language Models (LLMs), including Unsloth, Prompting Guide, OpenAI API, and Together.xyz API.
-
----
-
 # Large Language Models (LLMs) Learning Resources
 
 Welcome to the **Large Language Models Learning Resources** repository! This hub is meticulously curated to provide the most comprehensive and up-to-date resources for enthusiasts and professionals interested in the field of Large Language Models. Here, you will find a selection of essential books, groundbreaking research papers, transformative courses, and specialized tools that shape our understanding of LLMs.
